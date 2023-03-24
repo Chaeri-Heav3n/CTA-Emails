@@ -1,6 +1,8 @@
 # Call To Action Emails
 
-Every email needs a goal. The CTA is the email element that asks your subcribers to complete an action based on what the email campaign is for. Ideally, there should only be one goal per email.
+Every email should be created with a goal in mind. A call to action is the element that is added to an email (usually a button) that allows subscribers to take a specific action. 
+
+Ideally, there should be one kind of action per email. Otherwise, you run the risk of confusing the customer or making the email too complicated. A subscriber should be able to take a quick glance at the email and immediately understand what it is for. 
 
 ## #1. noodles.html
 
